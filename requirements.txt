@@ -1,1 +1,3 @@
-r
+firebase-admin
+streamlit
+bcrypt
